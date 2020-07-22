@@ -528,8 +528,14 @@ footer {
   }
 
   .tamplate__form {
+    width: 60%;
     margin: 2rem auto;
   }
+
+  .tamplate__title {
+    font-size: 1.8rem;
+  }
+
 
   .media__social {
     flex-wrap: wrap;
@@ -542,15 +548,17 @@ footer {
   }
 
   .box {
+    width: 60%;
     padding-top: 1.5rem;
   }
 
   .rate__list {
+    width: 60%;
     margin-top: 2rem;
   }
 }
 
-@media all and (max-width: 575px) {
+/* @media all and (max-width: 575px) {
   .tamplate__title {
     font-size: 1.8rem;
   }
@@ -566,11 +574,15 @@ footer {
   .box {
     width: 60%;
   }
-}
+} */
 
 @media all and (max-width: 530px) {
   .tamplate__inform {
     width: 90%;
+  }
+
+  .tamplate__title {
+    font-size: 1.8rem;
   }
 
   .tamplate__form {
