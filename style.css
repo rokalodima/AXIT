@@ -574,7 +574,7 @@ footer {
   }
 
   .tamplate__form {
-    width: 80%;
+    width: 90%;
   }
 
   .media__social {
@@ -582,12 +582,12 @@ footer {
   }
 
   .media__inform {
-    width: 80%;
+    width: 90%;
     text-align: center;
   }
 
   .box {
-    width: 60%;
+    width: 90%;
   }
 
   .list-social__item svg {
@@ -601,12 +601,12 @@ footer {
   }
 
   .form__info {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
   }
 
   .form__text {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     padding-top: 4rem;
   }
@@ -617,5 +617,9 @@ footer {
 
   .contact {
     margin: 3rem auto;
+  }
+
+  .rate__list {
+    width: 90%;
   }
 }
