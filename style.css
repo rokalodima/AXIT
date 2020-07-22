@@ -549,3 +549,48 @@ footer {
     margin-top: 2rem;
   }
 }
+
+@media all and (max-width: 575px) {
+  .tamplate__title {
+    font-size: 1.8rem;
+  }
+
+  .tamplate__form {
+    width: 60%;
+  }
+
+  .rate__list {
+    width: 60%;
+  }
+
+  .box {
+    width: 60%;
+  }
+}
+
+@media all and (max-width: 375px) {
+  .tamplate__inform {
+    width: 90%;
+  }
+
+  .tamplate__form {
+    width: 80%;
+  }
+
+  .media__social {
+    justify-content: center;
+  }
+
+  .media__inform {
+    text-align: center;
+  }
+
+  .box {
+    width: 60%;
+  }
+
+  .list-social__item svg {
+    width: 10px;
+    height: 10px;
+  }
+}
