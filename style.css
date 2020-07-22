@@ -511,7 +511,7 @@ footer {
   }
 
   .menu__item {
-    padding-top: 5px;
+    padding-top: 0.6rem;
   }
 
   .tamplate {
@@ -568,7 +568,7 @@ footer {
   }
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 530px) {
   .tamplate__inform {
     width: 90%;
   }
